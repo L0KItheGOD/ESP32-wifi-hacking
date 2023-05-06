@@ -35,7 +35,10 @@
 
  * The project is tested under Windows 11 OS, compatible with Windows 10.
  
- * 本專案測試於 Windows 11 組建環境相容，在 Windows 10 中亦可執行。  
+ * 本專案測試於 Windows 11 組建環境相容，在 Windows 10 中亦可執行。
+
+ ![E4JVuxSWUAAk_ht](https://user-images.githubusercontent.com/86963505/236628180-f56b94ec-c8c1-44df-b0df-b421e775ea4b.jpg)
+
 
 # Usage
 
