@@ -2,7 +2,9 @@
 
  An universal tool for ESP32 platform to preform various kinds of Wi-Fi attacks.
  
- ESP32 2.4g 802.11 wifi 通用安全測試工具 *(含燒錄工具)* 。這是一個基於 ESP32 微控制器的 WiFi 渗透工具。它提供了多種攻擊和測試 WiFi 網絡的方法。
+ ESP32 2.4g 802.11 wifi 通用安全測試工具 *(含燒錄工具)* 。
+ 
+ 這是一個基於 ESP32 微控制器的 WiFi 渗透工具，它提供了多種攻擊和測試 WiFi 網絡的方法。
  
  ![EZ_7tplXgAAcXl0](https://user-images.githubusercontent.com/86963505/236613044-1c9fd8f4-cfc7-4aa5-8569-d83dbebbdef3.jpg)
 
