@@ -33,9 +33,9 @@
 
 # Usage
 
-1. Download and open up the flash project. Type in the COM port that your ESP32 is currently connected to.
+1. Download and open up the flash project. 
 
-2. Power up your ESP32.
+2. Type in the COM port that your ESP32 is currently connected to.
 
 3. Connect to the access point under the name *Management AP* (will start automatically after boot) using any device of your choice.
 
