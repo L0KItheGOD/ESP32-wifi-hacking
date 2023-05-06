@@ -1,6 +1,6 @@
 # ESP32-wifi-hacking
 
- An universal tool for ESP32 platform to preform various kinds of Wi-Fi attacks.
+ An universal tool for ESP32 platform to perform various kinds of Wi-Fi attacks.
  
  ESP32 2.4g 802.11 wifi 通用安全測試工具 *(含燒錄工具)* 。
  
