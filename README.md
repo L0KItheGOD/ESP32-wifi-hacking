@@ -1,4 +1,5 @@
-# ESP32-wifi-penetration-tool
+# ESP32-wifi-hacking
+
  An universal tool for ESP32 platform for implementing various Wi-Fi attacks.
  
  ESP32 2.4g wifi 通用安全測試工具 *(含燒錄工具)*
