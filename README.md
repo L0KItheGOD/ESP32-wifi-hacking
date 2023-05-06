@@ -33,15 +33,15 @@
 
 # Usage
 
-1.Download and open up the flash project. Type in the COM port that your ESP32 is currently connected to.
+1. Download and open up the flash project. Type in the COM port that your ESP32 is currently connected to.
 
-2.Power up your ESP32.
+2. Power up your ESP32.
 
-3.Connect to the access point under the name *Management AP* (will start automatically after boot) using any device of your choice.
+3. Connect to the access point under the name *Management AP* (will start automatically after boot) using any device of your choice.
 
-4.Login *password: mgmtadmin*
+4. Login *password: mgmtadmin*
 
-5.Open up *192.168.4.1* in you browser to access the control panel .
+5. Open up *192.168.4.1* in you browser to access the control panel .
 
 # Contributing
 
